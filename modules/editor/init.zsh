@@ -317,3 +317,5 @@ fi
 
 unset key{map,}
 
+bindkey  history-substring-search-up
+bindkey  history-substring-search-down
