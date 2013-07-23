@@ -12,3 +12,4 @@ fi
 
 # Customize to your needs...
 
+alias tphp='ctags-exuberant --langmap=php:+.inc'
